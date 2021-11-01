@@ -35,7 +35,7 @@ while (true) {
 
     let randomNumber = Math.floor(Math.random() * 10);
 
-    if (randomNumber < 5 || randomNumber > 5) {
+    if (randomNumber !== 5) {
 
             counter++;
             console.log(`${randomNumber} !== 5.`);
