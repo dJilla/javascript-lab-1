@@ -1,13 +1,13 @@
 let fullName = 'Mitch Cuckovich';
 let age = 25;
 
-let birthDay = 'January 24th';
+let birthDay = 'January 24';
 
 let pineapplePizza = true;
 
-let lifeEvents = ['I was born in Troy, Michigan.', 'I went to Hope College.', 'I went to Junior Olympics when I was 10 years old. I placed 14th in the nation in the 800 meter event.', 'I am a graduate of a Grand Circus Bootcamp'];
+let lifeEvents = ['I was born in Troy, Michigan.', 'I went to Hope College.', 'I went to Junior Olympics when I was 10 years old. I placed 14th in the nation in the 800 meter event.', 'I am a graduate of a Grand Circus Bootcamp.'];
 
-if (pineApplePizza = true) {
+if (pineapplePizza = true) {
     
     console.log(`My name is ${fullName} and I like pineapples on pizza. I'm currently ${age} years old and my birthday is on ${birthDay}.`);
 
@@ -32,7 +32,7 @@ while (true) {
     if (randomNumber < 5 || randomNumber > 5) {
 
             counter++;
-            console.log(`${randomNumber} !==5.`);
+            console.log(`${randomNumber} !== 5.`);
 
     } else {
 
