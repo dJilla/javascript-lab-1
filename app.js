@@ -1,4 +1,5 @@
 let fullName = 'Mitch Cuckovich';
+
 let age = 25;
 
 let birthDay = 'January 24';
